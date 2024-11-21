@@ -1,0 +1,37 @@
+===( 4.3 )==================================================================================
+-Matinhos procedurais gerados no mapa
+-Textura do chão reimaginada
+-Chão infinito
+
+===( 4.4 )==================================================================================
+-O personagem dá dash
+-O dash tem cooldown (90t)
+-O ataque tem cooldown também (60t)
+
+===( 4.5 )==================================================================================
+-Correção de bugs
+
+===( 4.6 )==================================================================================
+-Correção de bugs
+
+===( 4.7 )==================================================================================
+-O inimigo tem um novo padrão de ataque
+-Correção na hitbox do ataque do jogador
+-Knockback no ataque do inimigo
+-Aumento na hitbox do inimigo
+-Botão de debug dentro do jogo (TAB)
+
+===( 4.8 )==================================================================================
+-O boss troca dinânicamente entre padrões de ataque
+-A bala do boss agora colide com o player, mas não dá dano ainda
+-Hitbox do boss aumentada drásticamente e posição centralizada no meio do mano boss
+-Tiros tem um spread pattern aleatório
+
+===( 5.0 )==================================================================================
+-Barra de vida do boss
+-Corações de vida do player
+-Player e boss podem morrer
+-Novo visual pro Boss
+
+PENDENTE:
+menu principal, tela de morte, tela de vitória
