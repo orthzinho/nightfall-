@@ -10,6 +10,7 @@ Extraia tudo em uma pasta
 Abra a pasta no visual studio code
 
 Use o runtime do python para rodar o jogo!
+(O arquivo do jogo é game_scene.py)
 
 ## CONRTOLES
 WASD - Movimento
